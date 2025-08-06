@@ -60,7 +60,7 @@ Sistem terhubung ke internet melalui **ESP8266** dan mengirim data ke API BOT Te
   
 ## 🎥 Referensi & Dokumentasi Video
 
-📺 **Demo Sistem di Link**: [Klik di sini untuk menonton](https://drive.google.com/file/d/1BWs9cAS0MUr0V3pRrCKHXJSMx9GZajtf/view?usp=sharing)  
+ **Demo Alat**: [Klik di sini untuk menonton](https://drive.google.com/file/d/1BWs9cAS0MUr0V3pRrCKHXJSMx9GZajtf/view?usp=sharing)  
 
 ## 🛠️ Instalasi & Konfigurasi
 

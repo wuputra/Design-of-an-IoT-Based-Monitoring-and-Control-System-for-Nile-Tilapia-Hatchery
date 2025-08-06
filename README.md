@@ -56,7 +56,11 @@ Sistem terhubung ke internet melalui **ESP8266** dan mengirim data ke API BOT Te
 - Penyimpanan data di cloud untuk analisis jangka panjang  
 - Dashboard berbasis web atau mobile  
 - Kontrol penuh melalui perintah di BOT Telegram  
-- Prediksi otomatis menggunakan machine learning  
+- Prediksi otomatis menggunakan machine learning
+  
+## 🎥 Referensi & Dokumentasi Video
+
+📺 **Demo Sistem di Link**: [Klik di sini untuk menonton](https://drive.google.com/file/d/1BWs9cAS0MUr0V3pRrCKHXJSMx9GZajtf/view?usp=sharing)  
 
 ## 🛠️ Instalasi & Konfigurasi
 
